@@ -1,4 +1,4 @@
-# 💰 Money Expense Tracker
+# Money Expense Tracker
 
 A full-stack expense tracker: React (Vite) front end, Express API, and **Google
 Sheets as the database** — with Google Sign-In and per-user data isolation.
